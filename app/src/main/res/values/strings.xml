@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Reproductor Multimedia</string>
+    <string name="play">play</string>
+    <string name="pause">pause</string>
+    <string name="stop">stop</string>
+    <string name="primera"><![CDATA[<<]]></string>
+    <string name="anterior"><![CDATA[<]]></string>
+    <string name="siguiente"><![CDATA[>]]></string>
+    <string name="ultima"><![CDATA[>>]]></string>
+    <string name="beatIt">Michael Jackson - Beat It</string>
+    <string name="goDancing">FISHER - You Little Beauty </string>
+    <string name="littleBeauty">FISHER - Wanna Go Dancin</string>
+    <string name="playing">La canción ya se está reproduciendo</string>
+    <string name="playOnce">Iniciando cancion</string>
+    <string name="pausing">La canción ya está pausada</string>
+    <string name="pauseOnce">Pausando cancion</string>
+    <string name="stopOnce">Cancion parada</string>
+
+
+</resources>
